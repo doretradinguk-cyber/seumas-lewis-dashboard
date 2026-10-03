@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+public/assets/runtime/
+.env
+.env.*
+!.env.example
+
+node_modules/

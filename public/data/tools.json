@@ -1,0 +1,17 @@
+{
+  "game": {
+    "url": "",
+    "label": "Retro Wave Game",
+    "repo": "https://github.com/doretradinguk-cyber/retro-wave-game"
+  },
+  "photo": {
+    "url": "",
+    "label": "Photo to Game",
+    "repo": "https://github.com/doretradinguk-cyber/ai-photo-to-game-generator"
+  },
+  "audio": {
+    "url": "",
+    "label": "Audio Workshop",
+    "repo": ""
+  }
+}
